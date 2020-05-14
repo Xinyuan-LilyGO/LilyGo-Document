@@ -37,6 +37,9 @@
 ## 图形编程
 [图形编程百度云地址](https://pan.baidu.com/s/1VAbl8_A8FZ1fasJG4GrmiQ)(提取码：exjz)
 
+## 文档
+[T-Watch esp32 Version 入门篇及文档](https://t-watch.readthedocs.io/zh_CN/latest/)
+
 
 ## FAQ
 1. 板子拿到手该怎么安装Arduino ? 
@@ -63,3 +66,5 @@
     - 一般原理图都和程序放在一个仓库,请查看上面的示例代码列表,如果没有,请联系客服添加
 12. 有没有Micropython或者别的语言的示例程序?
     - 没有,我们只提供Arduino的示例测试代码
+13. 在哪儿可以购买你们的板子 ?
+    - 在淘宝网中搜索LilyGo,看到LilyGo品牌店就是我们的淘宝店铺
