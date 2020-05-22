@@ -1,5 +1,6 @@
 
 ## B站视频教程
+
 1. [arduino安装esp32视频教程](https://www.bilibili.com/video/BV1QK411L7Yx/)
 2. [如何使用LilyGo T-Watch Library视频教程](https://www.bilibili.com/video/BV1Fe41147aH/)
 3. [如何使用LilyGo 相机系列视频教程](https://www.bilibili.com/video/BV1Sk4y197Nm/)
@@ -32,7 +33,7 @@
 22. [T-solar IAR examples](https://github.com/Xinyuan-LilyGO/T-solar)
 23. [LoRa Series examples](https://github.com/Xinyuan-LilyGO/TTGO-LoRa-Series)
 24. [BBQ Keyboard Driver](https://github.com/Xinyuan-LilyGO/bbq10kbd_i2c_sw)
-
+25. [T-Wristband-NRF52](https://github.com/lewisxhe/LilyGo-T-Wristband-NRF52)
 
 ## 图形编程
 [图形编程百度云地址](https://pan.baidu.com/s/1VAbl8_A8FZ1fasJG4GrmiQ)(提取码：exjz)
