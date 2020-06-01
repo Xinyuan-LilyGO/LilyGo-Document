@@ -7,6 +7,8 @@
 4. [如何使用LilyGo 墨水屏系列视频教程](https://www.bilibili.com/video/BV1V7411m7b9/)
 5. [如何使用LilyGo T-DISPLAY](https://www.bilibili.com/video/BV13f4y1S7ER/)
 6. [LilyGo K210 上手入门视频](https://www.bilibili.com/video/BV1LV411d7hj/)
+7. [LilyGo T-Wristband上手入门视频](https://www.bilibili.com/video/BV12V411R7EL/)
+
 
 ## LilyGo 示例代码
 1. [T-Wristband examples(手环示例代码)](https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband)
