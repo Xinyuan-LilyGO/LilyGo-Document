@@ -27,7 +27,7 @@
 3. [T4 & T10 Series examples](https://github.com/Xinyuan-LilyGO/LilyGo_Txx)
 4. [T13 + ESP-IDF examples](https://github.com/Xinyuan-LilyGO/Ka-Radio32)
 5. [TM & T13 Ka-Radio32 网络收音机](https://github.com/Xinyuan-LilyGO/Ka-Radio32)
-
+6. [LilyGo-T-Display-S2](https://github.com/Xinyuan-LilyGO/LilyGo-T-Display-S2)
 
 ### 土壤系列
 1. [T-HiGrow(土壤) LoRaWLAN ](https://github.com/Xinyuan-LilyGO/LilyGO-T-HiGrow-LoRaWLAN)
