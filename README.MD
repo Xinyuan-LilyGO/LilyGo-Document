@@ -16,6 +16,8 @@
 3. [T_Watch_Game](https://github.com/Xinyuan-LilyGO/T_Watch_Game)
 4. [TTGO_T_Watch_See_Camera](https://github.com/Xinyuan-LilyGO/TTGO_T_Watch_See_Camera)
 5. [TTGO_T_Watch_Baidu_Rec](https://github.com/Xinyuan-LilyGO/TTGO_T_Watch_Baidu_Rec)
+6. [LilyGo-TWatch-DataSheet 手表硬件芯片手册仓库](https://github.com/Xinyuan-LilyGO/LilyGo-TWatch-DataSheet)
+
 
 ### 手环系列
 1. [T-Wristband examples(手环示例代码)](https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband)
