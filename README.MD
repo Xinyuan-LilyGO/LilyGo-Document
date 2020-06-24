@@ -41,7 +41,9 @@
 ### SIM系列
 1. [T-Call(SIM800L) examples](https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800L)
 2. [T-SIM(SIM7000G) examples ](https://github.com/Xinyuan-LilyGO/LilyGO-T-SIM7000G)
-3. [T-SIM(SIM7000G) Cayenne ](https://github.com/Xinyuan-LilyGO/LilyGO-SIM7000-Cayenne)
+3. [T-PCIE(SIM7600,SIM7000G)](https://github.com/Xinyuan-LilyGO/LilyGO-SIM7000-Cayenne)
+
+
 
 ### 摄像头系列
 1. [T-Camera Arduino examples](https://github.com/Xinyuan-LilyGO/LilyGo-Camera-Series)
