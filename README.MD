@@ -18,6 +18,8 @@
 5. [TTGO_T_Watch_Baidu_Rec](https://github.com/Xinyuan-LilyGO/TTGO_T_Watch_Baidu_Rec)
 6. [LilyGo-TWatch-DataSheet 手表硬件芯片手册仓库](https://github.com/Xinyuan-LilyGO/LilyGo-TWatch-DataSheet)
 
+### ESP32S2 单板系列
+1. [LilyGo-esp32s2-base](https://github.com/Xinyuan-LilyGO/LilyGo-esp32s2-base)
 
 ### 手环系列
 1. [T-Wristband examples(手环示例代码)](https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband)
@@ -58,10 +60,11 @@
 2. [T-Beam examples](https://github.com/Xinyuan-LilyGO/LilyGO-T-Beam)
 3. [T-Motion examples](https://github.com/Xinyuan-LilyGO/LilyGO-T-Motion)
 4. [T-solar IAR examples](https://github.com/Xinyuan-LilyGO/T-solar)
+5. [T-Motion GPS测试固件](https://github.com/Xinyuan-LilyGO/S76G_GPS_Firmware)
 
 ### 以太网系列
 1. [LilyGO-T-ETH-POE](https://github.com/Xinyuan-LilyGO/LilyGO-T-ETH-POE)
-
+2. [LilyGo-W5500-Lite](https://github.com/Xinyuan-LilyGO/LilyGo-W5500-Lite)
 
 ### 其他
 1. [BBQ Keyboard Driver](https://github.com/Xinyuan-LilyGO/bbq10kbd_i2c_sw)
