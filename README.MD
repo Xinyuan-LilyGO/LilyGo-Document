@@ -7,7 +7,7 @@
 4. [如何使用LilyGo 墨水屏系列视频教程](https://www.bilibili.com/video/BV1V7411m7b9/)
 5. [如何使用LilyGo T-DISPLAY](https://www.bilibili.com/video/BV13f4y1S7ER/)
 6. [LilyGo K210 上手入门视频](https://www.bilibili.com/video/BV1LV411d7hj/)
-7. [LilyGo T-Wristband上手入门视频](https://www.bilibili.com/video/BV12V411R7EL/)
+7. [LilyGo T-Wristband上手入门视频(这是早期MPU9250版本的视频,后面都是出LSM9DS1版本的,操作步骤类似，请查看README)](https://www.bilibili.com/video/BV12V411R7EL/)
 
 
 ## T-Watch系列
@@ -22,6 +22,7 @@
 1. [LilyGo-esp32s2-base](https://github.com/Xinyuan-LilyGO/LilyGo-esp32s2-base)
 
 ### 手环系列
+- 早期的T-Wristband使用的是MPU9250版本 ，后期的使用的都是LSM9DS1版本的 ，请查看清楚再操作
 1. [T-Wristband examples(手环示例代码)](https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband)
 2. [T-Wristband-NRF52](https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband-NRF52)
 
