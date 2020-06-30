@@ -2,7 +2,7 @@
 ## B站视频教程
 
 1. [arduino安装esp32视频教程](https://www.bilibili.com/video/BV1QK411L7Yx/)
-2. [如何使用LilyGo T-Watch Library视频教程](https://www.bilibili.com/video/BV1Fe41147aH/)
+2. [如何使用LilyGo T-Watch Library视频教程(已经更新了库文件，使用之前请查看github README了解如何选择正确的型号，此视频仅供参考)](https://www.bilibili.com/video/BV1Fe41147aH/)
 3. [如何使用LilyGo 相机系列视频教程](https://www.bilibili.com/video/BV1Sk4y197Nm/)
 4. [如何使用LilyGo 墨水屏系列视频教程](https://www.bilibili.com/video/BV1V7411m7b9/)
 5. [如何使用LilyGo T-DISPLAY](https://www.bilibili.com/video/BV13f4y1S7ER/)
