@@ -29,6 +29,7 @@
 2. [T-Wristband-NRF52](https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband-NRF52)
 
 ### LCD系列
+1. [LilyGo-HeartRate-Kit(心率计)](https://github.com/Xinyuan-LilyGO/LilyGo-HeartRate-Kit)
 1. [T-Display GD32 examples](https://github.com/Xinyuan-LilyGO/LilyGO-T-DisplayGD32)
 2. [T-Display examples](https://github.com/Xinyuan-LilyGO/TTGO-T-Display)
 3. [T4 & T10 Series examples](https://github.com/Xinyuan-LilyGO/LilyGo_Txx)
