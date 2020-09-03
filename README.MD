@@ -43,7 +43,7 @@
 3. [[T-HiGrow(土壤) BASE Dashboard](https://github.com/Xinyuan-LilyGO/TTGO-HiGrow)
 
 ### SIM系列
-1. [T-Call(SIM800L) examples](https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800L)
+1. [T-Call(SIM800L/C) examples](https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800L)
 2. [T-SIM(SIM7000G) examples ](https://github.com/Xinyuan-LilyGO/LilyGO-T-SIM7000G)
 3. [T-PCIE(SIM7600,SIM7000G)](https://github.com/Xinyuan-LilyGO/LilyGO-SIM7000-Cayenne)
 
@@ -71,6 +71,9 @@
 ### 以太网系列
 1. [LilyGO-T-ETH-POE](https://github.com/Xinyuan-LilyGO/LilyGO-T-ETH-POE)
 2. [LilyGo-W5500-Lite](https://github.com/Xinyuan-LilyGO/LilyGo-W5500-Lite)
+
+### 单板系列
+1. [T-Controller](https://github.com/LilyGO/TTGO-T-ControllerV2.2)
 
 ### 其他
 1. [BBQ Keyboard Driver](https://github.com/Xinyuan-LilyGO/bbq10kbd_i2c_sw)
