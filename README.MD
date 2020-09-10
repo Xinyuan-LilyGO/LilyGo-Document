@@ -29,13 +29,14 @@
 2. [T-Wristband-NRF52](https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband-NRF52)
 
 ### LCD系列
-1. [LilyGo-HeartRate-Kit(心率计)](https://github.com/Xinyuan-LilyGO/LilyGo-HeartRate-Kit)
-1. [T-Display GD32 examples](https://github.com/Xinyuan-LilyGO/LilyGO-T-DisplayGD32)
-2. [T-Display examples](https://github.com/Xinyuan-LilyGO/TTGO-T-Display)
-3. [T4 & T10 Series examples](https://github.com/Xinyuan-LilyGO/LilyGo_Txx)
-4. [T13 + ESP-IDF examples](https://github.com/Xinyuan-LilyGO/Ka-Radio32)
-5. [TM & T13 Ka-Radio32 网络收音机](https://github.com/Xinyuan-LilyGO/Ka-Radio32)
-6. [LilyGo-T-Display-S2](https://github.com/Xinyuan-LilyGO/LilyGo-T-Display-S2)
+2. [HeartRate-Kit(心率套件)](https://github.com/Xinyuan-LilyGO/LilyGo-HeartRate-Kit)
+3. [T-Display GD32 examples](https://github.com/Xinyuan-LilyGO/LilyGO-T-DisplayGD32)
+4. [T-Display examples](https://github.com/Xinyuan-LilyGO/TTGO-T-Display)
+5. [T4 & T10 Series examples](https://github.com/Xinyuan-LilyGO/LilyGo_Txx)
+6. [T13 + ESP-IDF examples](https://github.com/Xinyuan-LilyGO/Ka-Radio32)
+7. [TM & T13 Ka-Radio32 网络收音机](https://github.com/Xinyuan-LilyGO/Ka-Radio32)
+8. [LilyGo-T-Display-S2](https://github.com/Xinyuan-LilyGO/LilyGo-T-Display-S2)
+
 
 ### 土壤系列
 1. [T-HiGrow(土壤) LoRaWLAN ](https://github.com/Xinyuan-LilyGO/LilyGO-T-HiGrow-LoRaWLAN)
@@ -43,10 +44,10 @@
 3. [[T-HiGrow(土壤) BASE Dashboard](https://github.com/Xinyuan-LilyGO/TTGO-HiGrow)
 
 ### SIM系列
-1. [T-Call(SIM800L/C) examples](https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800L)
-2. [T-SIM(SIM7000G) examples ](https://github.com/Xinyuan-LilyGO/LilyGO-T-SIM7000G)
-3. [T-PCIE(SIM7600,SIM7000G)](https://github.com/Xinyuan-LilyGO/LilyGO-SIM7000-Cayenne)
-
+1. [T-Call(SIM800L/C)](https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800L)
+2. [T-SIM7000G)](https://github.com/Xinyuan-LilyGO/LilyGO-T-SIM7000G)
+3. [T-SIM7600X](https://github.com/Xinyuan-LilyGO/LilyGO-T-SIM7600X)
+4. [T-PCIE(SIM7600,SIM7000G)](https://github.com/Xinyuan-LilyGO/LilyGO-SIM7000-Cayenne)
 
 
 ### 摄像头系列
@@ -67,6 +68,8 @@
 3. [T-Motion examples](https://github.com/Xinyuan-LilyGO/LilyGO-T-Motion)
 4. [T-solar IAR examples](https://github.com/Xinyuan-LilyGO/T-solar)
 5. [T-Motion GPS测试固件](https://github.com/Xinyuan-LilyGO/S76G_GPS_Firmware)
+6. [SX1302 Gateway](https://github.com/Xinyuan-LilyGO/SX1302_HAL_GATEWAY)
+
 
 ### 以太网系列
 1. [LilyGO-T-ETH-POE](https://github.com/Xinyuan-LilyGO/LilyGO-T-ETH-POE)
@@ -88,6 +91,14 @@
 ## 常用工具
 [Imageconverter565](http://www.rinkydinkelectronics.com/t_imageconverter565.php)
 
+
+## ESP32 资源文档
+1. [esp-idf 乐鑫官方SDK ](https://github.com/espressif/esp-idf)
+2. [esp32 官方文档](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/get-started/)
+3. [esp32-s2 官方文档](https://docs.espressif.com/projects/esp-idf/en/latest/esp32s2/get-started/)
+4. [micropython-esp32](http://micropython.org/download/esp32/)
+5. [lua-esp32](https://github.com/nodemcu/nodemcu-firmware)
+6. [arduino-esp32](https://github.com/espressif/arduino-esp32)
 
 ## FAQ
 1. 板子拿到手该怎么安装Arduino ? 
