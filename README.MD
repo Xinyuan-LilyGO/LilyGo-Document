@@ -11,7 +11,7 @@
 
 
 ## T-Watch系列
-1. [T-Watch/2020 Arduino Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library) (支持一代T-Watch , T-Block , T-Watch2020)
+1. [T-Watch/2020 Arduino Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library) (支持一代T-Watch , T-Block , T-Watch2020 ,LilyPi)
 2. [MicroPython + T-Watch](https://github.com/Xinyuan-LilyGO/MicroPython_ESP32_psRAM_LoBo)
 3. [T_Watch_Game](https://github.com/Xinyuan-LilyGO/T_Watch_Game)
 4. [TTGO_T_Watch_See_Camera](https://github.com/Xinyuan-LilyGO/TTGO_T_Watch_See_Camera)
@@ -24,8 +24,7 @@
 1. [LilyGo-esp32s2-base](https://github.com/Xinyuan-LilyGO/LilyGo-esp32s2-base)
 
 ### 手环系列
-- 早期的T-Wristband使用的是MPU9250版本 ，后期的使用的都是LSM9DS1版本的 ，请查看清楚再操作
-1. [T-Wristband examples(手环示例代码)](https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband)
+1. [T-Wristband-ESP32](https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband)
 2. [T-Wristband-NRF52](https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband-NRF52)
 
 ### LCD系列
