@@ -20,12 +20,22 @@
 
 - 关于T-Watch NFC底板的问题，例程是参考[Adafruit-PN532](https://github.com/adafruit/Adafruit-PN532)的,具体如何使用请查看示例
 
+### K210
+1. [K210 SDK , Documentations ](https://canaan-creative.com/developer)
+2. [Kendryte IDE](http://kendryte-ide.s3-website.cn-northwest-1.amazonaws.com.cn/)
+3. [kendryte-standalone-demo](https://github.com/kendryte/kendryte-standalone-demo)
+4. [kendryte-freertos-sdk](https://github.com/kendryte/kendryte-freertos-sdk)
+
 ### ESP32S2 单板系列
 1. [LilyGo-esp32s2-base](https://github.com/Xinyuan-LilyGO/LilyGo-esp32s2-base)
 
 ### 手环系列
 1. [T-Wristband-ESP32](https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband)
 2. [T-Wristband-NRF52](https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband-NRF52)
+
+### OLDE
+1. [LilyGo-Tv-lite](https://github.com/Xinyuan-LilyGO/LilyGo-Tv-lite)
+
 
 ### LCD系列
 2. [HeartRate-Kit(心率套件)](https://github.com/Xinyuan-LilyGO/LilyGo-HeartRate-Kit)
@@ -34,7 +44,7 @@
 5. [T4 & T10 Series examples](https://github.com/Xinyuan-LilyGO/LilyGo_Txx)
 6. [T13 + ESP-IDF examples](https://github.com/Xinyuan-LilyGO/Ka-Radio32)
 7. [TM & T13 Ka-Radio32 网络收音机](https://github.com/Xinyuan-LilyGO/Ka-Radio32)
-8. [LilyGo-T-Display-S2](https://github.com/Xinyuan-LilyGO/LilyGo-T-Display-S2)
+8. [T-Display-S2](https://github.com/Xinyuan-LilyGO/LilyGo-T-Display-S2)
 
 
 ### 土壤系列
@@ -47,7 +57,7 @@
 2. [T-SIM7000G)](https://github.com/Xinyuan-LilyGO/LilyGO-T-SIM7000G)
 3. [T-SIM7600X](https://github.com/Xinyuan-LilyGO/LilyGO-T-SIM7600X)
 4. [T-PCIE(SIM7600,SIM7000G)](https://github.com/Xinyuan-LilyGO/LilyGO-SIM7000-Cayenne)
-
+5. [T-SIM7600X](https://github.com/Xinyuan-LilyGO/LilyGO-T-SIM7600X)
 
 ### 摄像头系列
 1. [T-Camera Arduino examples](https://github.com/Xinyuan-LilyGO/LilyGo-Camera-Series)
