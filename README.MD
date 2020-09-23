@@ -20,11 +20,16 @@
 
 - 关于T-Watch NFC底板的问题，例程是参考[Adafruit-PN532](https://github.com/adafruit/Adafruit-PN532)的,具体如何使用请查看示例
 
-### K210
+### K210 C/C++
 1. [K210 SDK , Documentations ](https://canaan-creative.com/developer)
 2. [Kendryte IDE](http://kendryte-ide.s3-website.cn-northwest-1.amazonaws.com.cn/)
 3. [kendryte-standalone-demo](https://github.com/kendryte/kendryte-standalone-demo)
 4. [kendryte-freertos-sdk](https://github.com/kendryte/kendryte-freertos-sdk)
+
+### K210 Micropython
+1. [MaixPy doc](https://maixpy.sipeed.com/zh/)
+2. [MaixPy examples](https://github.com/sipeed/MaixPy_scripts)
+3. [MaixPy Src](https://github.com/sipeed/MaixPy)
 
 ### ESP32S2 单板系列
 1. [LilyGo-esp32s2-base](https://github.com/Xinyuan-LilyGO/LilyGo-esp32s2-base)
