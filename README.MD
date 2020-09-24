@@ -166,3 +166,5 @@
     - 在淘宝网中搜索LilyGo,看到LilyGo品牌店就是我们的淘宝店铺
 15. 我下载的库要放在哪里 ?
     - 在不更改Arduino设置的情况下，都是放在 我的电脑->我的文档->Arduino->libraries 这个目录内
+16. 安装完Arduino for esp32 之后点击编译报错误 "open NUL: The System cannot find the file specified"
+    - 这是系统不符合要求，请换个系统重新安装
