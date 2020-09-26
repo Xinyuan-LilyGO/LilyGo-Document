@@ -45,7 +45,7 @@
 ### LCD系列
 2. [HeartRate-Kit(心率套件)](https://github.com/Xinyuan-LilyGO/LilyGo-HeartRate-Kit)
 3. [T-Display GD32 examples](https://github.com/Xinyuan-LilyGO/LilyGO-T-DisplayGD32)
-4. [T-Display examples](https://github.com/Xinyuan-LilyGO/TTGO-T-Display)
+4. [T-Display  ESP32 examples](https://github.com/Xinyuan-LilyGO/TTGO-T-Display)
 5. [T4 & T10 Series examples](https://github.com/Xinyuan-LilyGO/LilyGo_Txx)
 6. [T13 + ESP-IDF examples](https://github.com/Xinyuan-LilyGO/Ka-Radio32)
 7. [TM & T13 Ka-Radio32 网络收音机](https://github.com/Xinyuan-LilyGO/Ka-Radio32)
