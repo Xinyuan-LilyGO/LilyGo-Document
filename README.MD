@@ -83,6 +83,9 @@
 4. [T-solar IAR examples](https://github.com/Xinyuan-LilyGO/T-solar)
 5. [T-Motion GPS测试固件](https://github.com/Xinyuan-LilyGO/S76G_GPS_Firmware)
 6. [SX1302 Gateway](https://github.com/Xinyuan-LilyGO/SX1302_HAL_GATEWAY)
+7. [T-Beam SoftRF](https://github.com/lyusupov/SoftRF)
+8. [T-Beam Paxcounter人流量](https://github.com/cyberman54/ESP32-Paxcounter)
+9. [T-Beam Meshtastic](https://github.com/lewisxhe/Meshtastic-device)
 
 
 ### 以太网系列
