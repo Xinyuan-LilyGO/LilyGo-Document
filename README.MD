@@ -9,6 +9,7 @@
 6. [LilyGo K210 上手入门视频](https://www.bilibili.com/video/BV1LV411d7hj/)
 7. [LilyGo T-Wristband上手入门视频(这是早期MPU9250版本的视频,后面都是出LSM9DS1版本的,操作步骤类似，请查看README)](https://www.bilibili.com/video/BV12V411R7EL/)
 
+---------------------------------
 
 ## T-Watch系列
 1. [T-Watch/2020 Arduino Library](https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library) (支持一代T-Watch , T-Block , T-Watch2020 ,LilyPi)
@@ -18,7 +19,9 @@
 5. [TTGO_T_Watch_Baidu_Rec](https://github.com/Xinyuan-LilyGO/TTGO_T_Watch_Baidu_Rec)
 6. [LilyGo-TWatch-DataSheet 手表硬件芯片手册仓库](https://github.com/Xinyuan-LilyGO/LilyGo-TWatch-DataSheet)
 
-- 关于T-Watch NFC底板的问题，例程是参考[Adafruit-PN532](https://github.com/adafruit/Adafruit-PN532)的,具体如何使用请查看示例
+- 关于T-Watch NFC底板的问题，例程参考[Adafruit-PN532](https://github.com/adafruit/Adafruit-PN532)的,具体如何使用请查看示例
+
+---------------------------------
 
 ### K210 C/C++
 1. [K210 SDK , Documentations ](https://canaan-creative.com/developer)
@@ -26,21 +29,29 @@
 3. [kendryte-standalone-demo](https://github.com/kendryte/kendryte-standalone-demo)
 4. [kendryte-freertos-sdk](https://github.com/kendryte/kendryte-freertos-sdk)
 
+---------------------------------
+
 ### K210 Micropython
 1. [MaixPy doc](https://maixpy.sipeed.com/zh/)
 2. [MaixPy examples](https://github.com/sipeed/MaixPy_scripts)
 3. [MaixPy Src](https://github.com/sipeed/MaixPy)
 
+---------------------------------
+
 ### ESP32S2 单板系列
 1. [LilyGo-esp32s2-base](https://github.com/Xinyuan-LilyGO/LilyGo-esp32s2-base)
+
+---------------------------------
 
 ### 手环系列
 1. [T-Wristband-ESP32](https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband)
 2. [T-Wristband-NRF52](https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband-NRF52)
+---------------------------------
 
 ### OLDE
 1. [LilyGo-Tv-lite](https://github.com/Xinyuan-LilyGO/LilyGo-Tv-lite)
 
+---------------------------------
 
 ### LCD系列
 2. [HeartRate-Kit(心率套件)](https://github.com/Xinyuan-LilyGO/LilyGo-HeartRate-Kit)
@@ -51,18 +62,22 @@
 7. [TM & T13 Ka-Radio32 网络收音机](https://github.com/Xinyuan-LilyGO/Ka-Radio32)
 8. [T-Display-S2](https://github.com/Xinyuan-LilyGO/LilyGo-T-Display-S2)
 
+---------------------------------
 
 ### 土壤系列
 1. [T-HiGrow(土壤) LoRaWLAN ](https://github.com/Xinyuan-LilyGO/LilyGO-T-HiGrow-LoRaWLAN)
 2. [T-HiGrow(土壤) Cayenne Dashboard](https://github.com/Xinyuan-LilyGO/T-HiGrow-Dashboard)
 3. [[T-HiGrow(土壤) BASE Dashboard](https://github.com/Xinyuan-LilyGO/TTGO-HiGrow)
 
+---------------------------------
+
 ### SIM系列
 1. [T-Call(SIM800L/C)](https://github.com/Xinyuan-LilyGO/LilyGo-T-Call-SIM800L)
-2. [T-SIM7000G)](https://github.com/Xinyuan-LilyGO/LilyGO-T-SIM7000G)
-3. [T-SIM7600X](https://github.com/Xinyuan-LilyGO/LilyGO-T-SIM7600X)
-4. [T-PCIE(SIM7600,SIM7000G)](https://github.com/Xinyuan-LilyGO/LilyGO-SIM7000-Cayenne)
-5. [T-SIM7600X](https://github.com/Xinyuan-LilyGO/LilyGO-T-SIM7600X)
+2. [T-PCIE(SIM7600,SIM7000G)](https://github.com/Xinyuan-LilyGO/LilyGO-SIM7000-Cayenne)
+3. [T-SIM7000G)](https://github.com/Xinyuan-LilyGO/LilyGO-T-SIM7000G)
+4. [T-SIM7600X](https://github.com/Xinyuan-LilyGO/LilyGO-T-SIM7600X)
+
+---------------------------------
 
 ### 摄像头系列
 1. [T-Camera Arduino examples](https://github.com/Xinyuan-LilyGO/LilyGo-Camera-Series)
@@ -70,43 +85,69 @@
 3. [T-Camera Plus + BIGIOT](https://github.com/Xinyuan-LilyGO/esp32-camera-plus-bigiot)
 4. [T-Camera Mini](https://github.com/Xinyuan-LilyGO/TTGO_Camera_Mini)
 
+---------------------------------
+
 ### 墨水屏系列
 1. [Elink Series(墨水屏系列) 1 examples](https://github.com/Xinyuan-LilyGO/LilyGo-T5-ink-series)
 2. [Elink Series(墨水屏系列) 2 examples](https://github.com/Xinyuan-LilyGO/T5-Ink-Screen-Series)
 3. [T5 V24(墨水屏) examples](https://github.com/Xinyuan-LilyGO/LilyGO_T5_V24)
 4. [LilyGo-eink-v2.3-micropython](https://github.com/Xinyuan-LilyGO/LilyGo-eink-v2.3-micropython)
 
-### LoRa系列
-1. [LoRa Series examples](https://github.com/Xinyuan-LilyGO/TTGO-LoRa-Series)
-2. [T-Beam examples](https://github.com/Xinyuan-LilyGO/LilyGO-T-Beam)
-3. [T-Motion examples](https://github.com/Xinyuan-LilyGO/LilyGO-T-Motion)
-4. [T-solar IAR examples](https://github.com/Xinyuan-LilyGO/T-solar)
-5. [T-Motion GPS测试固件](https://github.com/Xinyuan-LilyGO/S76G_GPS_Firmware)
-6. [SX1302 Gateway](https://github.com/Xinyuan-LilyGO/SX1302_HAL_GATEWAY)
-7. [T-Beam SoftRF](https://github.com/lyusupov/SoftRF)
-8. [T-Beam Paxcounter人流量](https://github.com/cyberman54/ESP32-Paxcounter)
-9. [T-Beam Meshtastic](https://github.com/lewisxhe/Meshtastic-device)
-
+---------------------------------
 
 ### 以太网系列
 1. [LilyGO-T-ETH-POE](https://github.com/Xinyuan-LilyGO/LilyGO-T-ETH-POE)
 2. [LilyGo-W5500-Lite](https://github.com/Xinyuan-LilyGO/LilyGo-W5500-Lite)
+---------------------------------
 
 ### 单板系列
 1. [T-Controller](https://github.com/LilyGO/TTGO-T-ControllerV2.2)
 
+---------------------------------
+
+### LoRa系列
+1. [LoRa Series examples](https://github.com/Xinyuan-LilyGO/TTGO-LoRa-Series)
+2. [T-Motion examples](https://github.com/Xinyuan-LilyGO/LilyGO-T-Motion)
+3. [T-solar IAR examples](https://github.com/Xinyuan-LilyGO/T-solar)
+4. [T-Motion GPS测试固件](https://github.com/Xinyuan-LilyGO/S76G_GPS_Firmware)
+5. [SX1302 Gateway](https://github.com/Xinyuan-LilyGO/SX1302_HAL_GATEWAY)
+6. [T-Beam examples](https://github.com/Xinyuan-LilyGO/LilyGO-T-Beam)
+7. [T-Beam SoftRF](https://github.com/lyusupov/SoftRF)
+8. [T-Beam Paxcounter人流量](https://github.com/cyberman54/ESP32-Paxcounter)
+9. [T-Beam Meshtastic](https://github.com/lewisxhe/Meshtastic-device)
+
+### LoRa 系列模块资料
+- [SX1262 LoRa模块资料](https://www.semtech.com/products/wireless-rf/lora-transceivers/sx1262)
+- [SX1278 LoRa模块资料](https://www.semtech.com/products/wireless-rf/lora-transceivers/sx1278)
+- [SX1276 LoRa模块资料](https://www.semtech.com/products/wireless-rf/lora-transceivers/sx1276)
+- [GSP模块 NEO-6](https://www.u-blox.com/en/product/neo-6-series)
+- [AXP192 电源芯片](http://www.x-powers.com/en.php/Info/product_detail/article_id/29)
+  
+---------------------------------
+
 ### 其他
 1. [BBQ Keyboard Driver](https://github.com/Xinyuan-LilyGO/bbq10kbd_i2c_sw)
 
+---------------------------------
+
 
 ## 图形编程
-[图形编程百度云地址](https://pan.baidu.com/s/1VAbl8_A8FZ1fasJG4GrmiQ)(提取码：exjz)
+- [图形编程百度云地址](https://pan.baidu.com/s/1VAbl8_A8FZ1fasJG4GrmiQ)(提取码：exjz)
+- [Pictoblox 官网](https://thestempedia.com/product/pictoblox/download-pictoblox/)
+- [kbide 官网](https://kbide.org/)
+
+
+---------------------------------
 
 ## 文档
 [T-Watch esp32 Version 入门篇及文档](https://t-watch.readthedocs.io/zh_CN/latest/)
 
+---------------------------------
+
 ## 常用工具
 [Imageconverter565](http://www.rinkydinkelectronics.com/t_imageconverter565.php)
+
+---------------------------------
 
 
 ## ESP32 资源文档
@@ -116,6 +157,7 @@
 4. [micropython-esp32](http://micropython.org/download/esp32/)
 5. [lua-esp32](https://github.com/nodemcu/nodemcu-firmware)
 6. [arduino-esp32](https://github.com/espressif/arduino-esp32)
+---------------------------------
 
 ## FAQ
 1. 板子拿到手该怎么安装Arduino ? 
