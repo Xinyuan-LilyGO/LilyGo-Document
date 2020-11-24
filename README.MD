@@ -114,7 +114,7 @@
 6. [T-Beam examples](https://github.com/Xinyuan-LilyGO/LilyGO-T-Beam)
 7. [T-Beam SoftRF](https://github.com/lyusupov/SoftRF)
 8. [T-Beam Paxcounter人流量](https://github.com/cyberman54/ESP32-Paxcounter)
-9. [T-Beam Meshtastic](https://github.com/lewisxhe/Meshtastic-device)
+9. [T-Beam Meshtastic](https://github.com/meshtastic/Meshtastic-device)
 
 ### LoRa 系列模块资料
 - [SX1262 LoRa模块资料](https://www.semtech.com/products/wireless-rf/lora-transceivers/sx1262)
