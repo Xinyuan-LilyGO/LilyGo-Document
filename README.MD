@@ -213,3 +213,5 @@
     - 在不更改Arduino设置的情况下，都是放在 我的电脑->我的文档->Arduino->libraries 这个目录内
 16. 安装完Arduino for esp32 之后点击编译报错误 "open NUL: The System cannot find the file specified"
     - 这是系统不符合要求，请换个系统重新安装
+17. Arduino 提示xxx无效库是什么情况 ?
+    - 不用管它
