@@ -46,10 +46,12 @@
 ### 手环系列
 1. [T-Wristband-ESP32](https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband)
 2. [T-Wristband-NRF52](https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband-NRF52)
+3. NRF52832 手环SWD接口对应下载板接口
+- SWCLK----IO14     SWDIO---IO12
 ---------------------------------
 
 ### OLDE
-1. [LilyGo-Tv-lite](https://github.com/Xinyuan-LilyGO/LilyGo-Tv-lite)
+1. [LilyGo-TTV](https://github.com/Xinyuan-LilyGO/LilyGo-Tv-lite)
 
 ---------------------------------
 
@@ -209,6 +211,7 @@
     - 没有,我们只提供Arduino的示例测试代码
 14. 在哪儿可以购买你们的板子 ?
     - 在淘宝网中搜索LilyGo,看到LilyGo品牌店就是我们的淘宝店铺
+    - 链接:https://shop135629592.taobao.com/
 15. 我下载的库要放在哪里 ?
     - 在不更改Arduino设置的情况下，都是放在 我的电脑->我的文档->Arduino->libraries 这个目录内
 16. 安装完Arduino for esp32 之后点击编译报错误 "open NUL: The System cannot find the file specified"
