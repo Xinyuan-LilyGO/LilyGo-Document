@@ -275,6 +275,10 @@
 <td><a href="https://github.com/Xinyuan-LilyGO/LilyGo-eink-v2.3-micropython">T5 V2.13 Micropython</a></td>
 <td><a href="https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-23186215236.16.47f3566dLWwfZ6&id=592727637336">淘宝</a></td>
 </tr>
+<tr>
+<td><a href="https://github.com/Xinyuan-LilyGO/LilyGo-EPD47">T5 V2.13 Micropython</a></td>
+<td><a href="https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-23186202528.6.51de19e1NgGAGX&id=634979479882">淘宝</a></td>
+</tr>
 </table>
 
 
