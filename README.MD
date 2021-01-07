@@ -157,6 +157,7 @@
 </table>
 
 
+* [GD32VF103 固件库和编程开发文档地址](http://www.gd32mcu.com/cn/download/7?kw=GD32VF1)
 
 
 ---------------------------------
