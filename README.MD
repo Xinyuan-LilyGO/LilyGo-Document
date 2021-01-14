@@ -1,13 +1,24 @@
 
 ## B站视频教程
 
-1. [arduino安装esp32视频教程](https://www.bilibili.com/video/BV1QK411L7Yx/)
+1. [Arduino安装esp32视频教程](https://www.bilibili.com/video/BV1QK411L7Yx/)
 2. [如何使用LilyGo T-Watch Library视频教程(已经更新了库文件，使用之前请查看github README了解如何选择正确的型号，此视频仅供参考)](https://www.bilibili.com/video/BV1Fe41147aH/)
 3. [如何使用LilyGo 相机系列视频教程](https://www.bilibili.com/video/BV1Sk4y197Nm/)
 4. [如何使用LilyGo 墨水屏系列视频教程](https://www.bilibili.com/video/BV1V7411m7b9/)
 5. ~~[如何使用LilyGo T-DISPLAY](https://www.bilibili.com/video/BV13f4y1S7ER/)~~ 视频已经过时，请查看README操作
 6. [LilyGo K210 上手入门视频](https://www.bilibili.com/video/BV1LV411d7hj/)
 7. [LilyGo T-Wristband上手入门视频(这是早期MPU9250版本的视频,后面都是出LSM9DS1版本的,操作步骤类似，请查看README)](https://www.bilibili.com/video/BV12V411R7EL/)
+
+
+- 如果你的电脑碰巧是`Win10 X64`的,那么你可以到群文件`ESP32 ENV`文件夹中下载`esp32.zip`,只需要将下载的文件解压到`[你的文档磁盘]:\Documents\Arduino\hardware\espressif`目录下 , 如果没有文件夹,请手动创建子目录,完整路径如下面截图。
+![](img/ESP32ENV.png)
+
+    然后你可以打开`Arduino IDE`,依次按下面选择:
+    - 工具 -> 开发板 -> 选择ESP32 Dev Modeule , 其他保持默认.
+    ![](img/ide.png)
+    - 文件 -> 示例 -> 在ESP32 Dev Module 示例中挑选一个示例 打开,然后尝试编译,如果编译成功,那么环境就OK了,如果不行,那么你的操作系统与我上传的环境不一致,请跳转到`[你的文档磁盘]:\Documents\Arduino\hardware\espressif\esp32\tools`目录中,双击get.exe,重新拉取编译链,速度快慢取决你的网络.
+    ![](img/examples.png)
+
 
 ---------------------------------
 
@@ -45,6 +56,13 @@
 3. [TTGO_T_Watch_Baidu_Rec](https://github.com/Xinyuan-LilyGO/TTGO_T_Watch_Baidu_Rec)
 4. [LilyGo-TWatch-DataSheet 手表硬件芯片手册仓库](https://github.com/Xinyuan-LilyGO/LilyGo-TWatch-DataSheet)
 5. 关于T-Watch NFC底板的问题，例程参考[Adafruit-PN532](https://github.com/adafruit/Adafruit-PN532)的,具体如何使用请查看示例
+
+#### TWatch & FAQ:
+1. 购买了T-Watch还需要买编程器吗?
+    - 不需要,ESP32使用串口下载方式,T-Watch内部已经设计了串口下载电路
+2. T-Watch 无法下载?
+    - 参见下面FAQ
+
 
 ---------------------------------
 
