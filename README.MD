@@ -25,28 +25,39 @@
 ### T-Watch/Block/LilyPi 系列
 <table border="1">
 <tr>
-<td>示例代码</td>
+<td>产品</td>
+<td>(国内)</td>
+<td>(国外)</td>
 <td>链接</td>
 </tr>
 <tr>
-<td><a href="https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library">T-Watch 2019/2020</a></td>
+<td>T-Watch 2019/2020</a></td>
+<td><a href="https://gitee.com/LilyGoX/TTGO_TWatch_Library">GITEE</a></td>
+<td><a href="https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library">GITHUB</a></td>
 <td><a href="https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-23186215236.28.47f3566dLWwfZ6&id=596753123467">淘宝</a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library">T-Watch-N</a></td>
+<td>T-Watch-N</a></td>
+<td><a href="https://gitee.com/LilyGoX/TTGO_TWatch_Library">GITEE</a></td>
+<td><a href="https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library">GITHUB</a></td>
 <td><a href="https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-23186215236.20.19d3566dVgdIEg&id=610295051005">淘宝</a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library">LilyPi</a></td>
+<td>LilyPi</a></td>
+<td><a href="https://gitee.com/LilyGoX/TTGO_TWatch_Library">GITEE</a></td>
+<td><a href="https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library">GITHUB</a></td>
 <td><a href="https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-23186215236.62.df12566dKqD5SD&id=626573236966">淘宝</a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library">T-Block</a></td>
+<td>T-Block</a></td>
+<td><a href="https://gitee.com/LilyGoX/TTGO_TWatch_Library">GITEE</a></td>
+<td><a href="https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library">GITHUB</a></td>
 <td><a href="https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-23186215236.50.19d3566dVgdIEg&id=615358902629">淘宝</a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Xinyuan-LilyGO/MicroPython_ESP32_psRAM_LoBo">T-Watch Micropython</a></td>
-<td><a href="https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-23186215236.28.47f3566dLWwfZ6&id=596753123467">源码</a></td>
+<td>T-Watch Micropython</a></td>
+<td>None</a></td>
+<td><a href="https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-23186215236.28.47f3566dLWwfZ6&id=596753123467">GITHUB</a></td>
 </tr>
 </table>
 
