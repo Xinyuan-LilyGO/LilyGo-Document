@@ -289,7 +289,7 @@
 <td>购买链接</td>
 </tr>
 <tr>
-<td><a href="https://github.com/Xinyuan-LilyGO/LilyGo-T5-ink-series">T5 全系列基础示例</a></td>
+<td><a href="https://github.com/Xinyuan-LilyGO/LilyGo-T5-ink-series">T5 V2.13/V2.2/V2.4/V2.8基础示例</a></td>
 <td><a href="https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-23186215236.67.47f3566dLWwfZ6&id=593151946301">淘宝</a></td>
 </tr>
 </tr>
@@ -298,7 +298,7 @@
 <td><a href="">淘宝</a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/Xinyuan-LilyGO/LilyGO_T5_V24">T5S V24版本</a></td>
+<td><a href="https://github.com/Xinyuan-LilyGO/LilyGo-T5-ink-series">T5S V24版本</a></td>
 <td><a href="https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-23186215236.59.624a566dQZNpaj&id=592301675595">淘宝</a></td>
 </tr>
 <tr>
@@ -311,8 +311,9 @@
 </tr>
 <tr>
 <td><a href="https://github.com/Xinyuan-LilyGO/LilyGo-T5-Grayscale">T5 V2.13 4灰阶</a></td>
-<td><a href="https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-23186215236.16.47f3566dLWwfZ6&id=592727637336">淘宝</a></td>
+<td><a href="https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-23186202528.10.7f1419e1AjaPv2&id=636335781892">淘宝</a></td>
 </tr>
+
 </table>
 
 * 关于EPD47 墨水屏气象站代码不在github中,请在群文件中下载
