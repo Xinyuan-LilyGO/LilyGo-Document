@@ -19,7 +19,7 @@
     - 文件 -> 示例 -> 在ESP32 Dev Module 示例中挑选一个示例 打开,然后尝试编译,如果编译成功,那么环境就OK了,如果不行,那么你的操作系统与我上传的环境不一致,请跳转到`[你的文档磁盘]:\Documents\Arduino\hardware\espressif\esp32\tools`目录中,双击get.exe,重新拉取编译链,速度快慢取决你的网络.
     ![](img/examples.png)
 
-
+- 如果群文件打开有问题可以去[百度云下载](链接：https://eyun.baidu.com/s/3ggDee1H 密码：APRd)
 ---------------------------------
 
 ### T-Watch/Block/LilyPi 系列
