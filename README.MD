@@ -123,6 +123,10 @@
 <td><a href="https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband-NRF52">NRF52832版本</a></td>
 <td><a href="https://item.taobao.com/item.htm?spm=a1z10.1-c.w4004-23186202528.2.16df19e1xNYvNX&id=632730722887">淘宝</a></td>
 </tr>
+<tr>
+<td><a href="https://github.com/Xinyuan-LilyGO/LilyGo-T-Wristband-S76G">S76G版本</a></td>
+<td><a href="">淘宝</a></td>
+</tr>
 </table>
 
 - Note: NRF52832 手环SWD接口对应下载板接口
