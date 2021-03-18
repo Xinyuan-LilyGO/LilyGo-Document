@@ -85,9 +85,9 @@
 
 ### K210 Micropython文档源码
 1. [MaixPy doc](https://maixpy.sipeed.com/zh/)
-2. [MaixPy examples](https://github.com/sipeed/MaixPy_scripts)
-3. [MaixPy Src](https://github.com/sipeed/MaixPy)
-
+2. [MaixPy examples](https://github.com/Xinyuan-LilyGO/LilyGo-K210-Script)
+3. [MaixPy Src](https://github.com/Xinyuan-LilyGO/MaixPy)
+   
 ---------------------------------
 
 ### ESP32S2 系列
