@@ -10,7 +10,7 @@
 7. [LilyGo T-Wristband上手入门视频(这是早期MPU9250版本的视频,后面都是出LSM9DS1版本的,操作步骤类似，请查看README)](https://www.bilibili.com/video/BV12V411R7EL/)
 
 
-- 如果你的电脑碰巧是`Win10 X64`的,那么你可以到群文件`ESP32 ENV`文件夹中下载`esp32.zip`,只需要将下载的文件解压到`[你的文档磁盘]:\Documents\Arduino\hardware\espressif`目录下 , 如果没有文件夹,请手动创建子目录,完整路径如下面截图。
+- 如果你的电脑碰巧是`Win10 X64`的,那么你可以到群文件`ESP32 ENV`文件夹中下载`esp32.zip`(如果没了那么就给TX删掉了,请到下方百度云下载),只需要将下载的文件解压到`[你的文档磁盘]:\Documents\Arduino\hardware\espressif`目录下 , 如果没有文件夹,请手动创建子目录,完整路径如下面截图。
 ![](img/ESP32ENV.png)
 
     然后你可以打开`Arduino IDE`,依次按下面选择:
