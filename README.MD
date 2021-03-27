@@ -67,7 +67,7 @@
 3. [TTGO_T_Watch_Baidu_Rec](https://github.com/Xinyuan-LilyGO/TTGO_T_Watch_Baidu_Rec)
 4. [LilyGo-TWatch-DataSheet 手表硬件芯片手册仓库](https://github.com/Xinyuan-LilyGO/LilyGo-TWatch-DataSheet)
 5. 关于T-Watch NFC底板的问题，例程参考[Adafruit-PN532](https://github.com/adafruit/Adafruit-PN532)的,具体如何使用请查看示例
-
+6. TWATCH 系列出厂固件:链接：https://eyun.baidu.com/s/3i6CZXv3 密码：Rjuw
 #### TWatch & FAQ:
 1. 购买了T-Watch还需要买编程器吗?
     - 不需要,ESP32使用串口下载方式,T-Watch内部已经设计了串口下载电路
