@@ -246,6 +246,16 @@
 <td><a href="https://github.com/Xinyuan-LilyGO/LilyGO-T-SIM7600X">T-SIM7600X</a></td>
 <td><a href="">淘宝</a></td>
 </tr>
+</tr>
+<tr>
+<td><a href="https://github.com/Xinyuan-LilyGO/LilyGO-T-A7670X">T-A7670</a></td>
+<td><a href="">淘宝</a></td>
+</tr>
+</tr>
+<tr>
+<td><a href="https://github.com/Xinyuan-LilyGO/LilyGO-T-A7608X">T-A7608</a></td>
+<td><a href="">淘宝</a></td>
+</tr>
 </table>
 
 ---------------------------------
@@ -315,6 +325,10 @@
 </tr>
 <tr>
 <td><a href="https://github.com/Xinyuan-LilyGO/LilyGo-T5-Grayscale">T5 V2.13 4灰阶</a></td>
+<td><a href="https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-23186202528.10.7f1419e1AjaPv2&id=636335781892">淘宝</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Xinyuan-LilyGO/LilyGO-Mini-Epaper">Mini Epaper</a></td>
 <td><a href="https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-23186202528.10.7f1419e1AjaPv2&id=636335781892">淘宝</a></td>
 </tr>
 
