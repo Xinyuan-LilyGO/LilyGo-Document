@@ -106,6 +106,27 @@
 </tr>
 </table>
 
+
+### ESP32C2 系列
+<table border="1">
+<tr>
+<td>示例代码</td>
+<td>购买链接</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Xinyuan-LilyGO/LilyGo-T-OI-PLUS">T-OI-PLUS</a></td>
+<td><a href="">淘宝</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Xinyuan-LilyGO/T-Color">T-Color</a></td>
+<td><a href="">淘宝</a></td>
+</tr>
+</tr>
+<tr>
+<td><a href="https://github.com/Xinyuan-LilyGO/T-01C3">T-01C3</a></td>
+<td><a href="">淘宝</a></td>
+</tr>
+</table>
 ---------------------------------
 
 ### T-Wristband 手环系列
