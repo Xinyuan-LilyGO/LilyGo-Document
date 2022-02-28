@@ -107,7 +107,7 @@
 </table>
 
 
-### ESP32C2 系列
+### ESP32C3 系列
 <table border="1">
 <tr>
 <td>示例代码</td>
