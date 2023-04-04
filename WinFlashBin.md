@@ -6,14 +6,17 @@ Download [Flash_download_tool](https://www.espressif.com.cn/sites/default/files/
 
 
 Select ESP32 in ChipTpe for integrated ESP32 chip
+
 ![](./img/esp32-1.png)
 
 
 Select ESP32s3 in ChipTpe for integrated ESP32-S3 chip
+
 ![](./img/esp32s3-1.png)
 
 
 Select according to the following figure, finally select `START`, press `RST` after writing, or power on again, and then observe the log output from the serial port
+
     ![](./img/esp32-2.png)
 
 
