@@ -1,5 +1,5 @@
 
-#  Install ESPTool on macOS
+# Flash firmware in Mac OS
 
 Open a Terminal, and launch following commands:
 
@@ -49,7 +49,7 @@ esptool --chip esp32s3  --baud 921600 --before default_reset --after hard_reset 
 
 ```
 
-
+Unable to write please check [here](./EnterDownloadMode.md)
 
 
 
