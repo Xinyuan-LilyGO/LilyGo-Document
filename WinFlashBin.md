@@ -17,7 +17,7 @@ Select ESP32s3 in ChipTpe for integrated ESP32-S3 chip
 
 Select according to the following figure, finally select `START`, press `RST` after writing, or power on again, and then observe the log output from the serial port
 
-    ![](./img/esp32-2.png)
+![](./img/esp32-2.png)
 
 
 Unable to write please check [here](./EnterDownloadMode.md)
