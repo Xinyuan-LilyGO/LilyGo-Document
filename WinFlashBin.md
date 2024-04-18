@@ -22,7 +22,7 @@ Select according to the following figure, finally select `START`, press `RST` af
 
 Unable to write please check [here](./EnterDownloadMode.md)
 
-
+**After downloading the tool, the device will not start. You need to press the reset button to start the device, otherwise nothing will happen.**
 
 
 
